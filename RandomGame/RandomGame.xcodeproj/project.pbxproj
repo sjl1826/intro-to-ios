@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BD3DA74C24DE742F00CFFBC2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3DA74B24DE742F00CFFBC2 /* AppDelegate.swift */; };
-		BD3DA74E24DE742F00CFFBC2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3DA74D24DE742F00CFFBC2 /* SceneDelegate.swift */; };
-		BD3DA75024DE742F00CFFBC2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD3DA74F24DE742F00CFFBC2 /* ViewController.swift */; };
-		BD3DA75324DE742F00CFFBC2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD3DA75124DE742F00CFFBC2 /* Main.storyboard */; };
-		BD3DA75524DE743600CFFBC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD3DA75424DE743600CFFBC2 /* Assets.xcassets */; };
-		BD3DA75824DE743600CFFBC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD3DA75624DE743600CFFBC2 /* LaunchScreen.storyboard */; };
+		BD222E0024DE87CF005F9CC2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD222DFF24DE87CF005F9CC2 /* AppDelegate.swift */; };
+		BD222E0224DE87CF005F9CC2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD222E0124DE87CF005F9CC2 /* SceneDelegate.swift */; };
+		BD222E0424DE87CF005F9CC2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD222E0324DE87CF005F9CC2 /* ViewController.swift */; };
+		BD222E0724DE87CF005F9CC2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD222E0524DE87CF005F9CC2 /* Main.storyboard */; };
+		BD222E0924DE87D2005F9CC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD222E0824DE87D2005F9CC2 /* Assets.xcassets */; };
+		BD222E0C24DE87D2005F9CC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD222E0A24DE87D2005F9CC2 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		BD3DA74824DE742F00CFFBC2 /* AudioPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AudioPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		BD3DA74B24DE742F00CFFBC2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		BD3DA74D24DE742F00CFFBC2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		BD3DA74F24DE742F00CFFBC2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		BD3DA75224DE742F00CFFBC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		BD3DA75424DE743600CFFBC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		BD3DA75724DE743600CFFBC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		BD3DA75924DE743600CFFBC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD222DFC24DE87CF005F9CC2 /* RandomGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RandomGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BD222DFF24DE87CF005F9CC2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		BD222E0124DE87CF005F9CC2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		BD222E0324DE87CF005F9CC2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		BD222E0624DE87CF005F9CC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		BD222E0824DE87D2005F9CC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BD222E0B24DE87D2005F9CC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		BD222E0D24DE87D2005F9CC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		BD3DA74524DE742F00CFFBC2 /* Frameworks */ = {
+		BD222DF924DE87CF005F9CC2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		BD3DA73F24DE742F00CFFBC2 = {
+		BD222DF324DE87CF005F9CC2 = {
 			isa = PBXGroup;
 			children = (
-				BD3DA74A24DE742F00CFFBC2 /* AudioPlayer */,
-				BD3DA74924DE742F00CFFBC2 /* Products */,
+				BD222DFE24DE87CF005F9CC2 /* RandomGame */,
+				BD222DFD24DE87CF005F9CC2 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		BD3DA74924DE742F00CFFBC2 /* Products */ = {
+		BD222DFD24DE87CF005F9CC2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BD3DA74824DE742F00CFFBC2 /* AudioPlayer.app */,
+				BD222DFC24DE87CF005F9CC2 /* RandomGame.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BD3DA74A24DE742F00CFFBC2 /* AudioPlayer */ = {
+		BD222DFE24DE87CF005F9CC2 /* RandomGame */ = {
 			isa = PBXGroup;
 			children = (
-				BD3DA74B24DE742F00CFFBC2 /* AppDelegate.swift */,
-				BD3DA74D24DE742F00CFFBC2 /* SceneDelegate.swift */,
-				BD3DA74F24DE742F00CFFBC2 /* ViewController.swift */,
-				BD3DA75124DE742F00CFFBC2 /* Main.storyboard */,
-				BD3DA75424DE743600CFFBC2 /* Assets.xcassets */,
-				BD3DA75624DE743600CFFBC2 /* LaunchScreen.storyboard */,
-				BD3DA75924DE743600CFFBC2 /* Info.plist */,
+				BD222DFF24DE87CF005F9CC2 /* AppDelegate.swift */,
+				BD222E0124DE87CF005F9CC2 /* SceneDelegate.swift */,
+				BD222E0324DE87CF005F9CC2 /* ViewController.swift */,
+				BD222E0524DE87CF005F9CC2 /* Main.storyboard */,
+				BD222E0824DE87D2005F9CC2 /* Assets.xcassets */,
+				BD222E0A24DE87D2005F9CC2 /* LaunchScreen.storyboard */,
+				BD222E0D24DE87D2005F9CC2 /* Info.plist */,
 			);
-			path = AudioPlayer;
+			path = RandomGame;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BD3DA74724DE742F00CFFBC2 /* AudioPlayer */ = {
+		BD222DFB24DE87CF005F9CC2 /* RandomGame */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BD3DA75C24DE743600CFFBC2 /* Build configuration list for PBXNativeTarget "AudioPlayer" */;
+			buildConfigurationList = BD222E1024DE87D2005F9CC2 /* Build configuration list for PBXNativeTarget "RandomGame" */;
 			buildPhases = (
-				BD3DA74424DE742F00CFFBC2 /* Sources */,
-				BD3DA74524DE742F00CFFBC2 /* Frameworks */,
-				BD3DA74624DE742F00CFFBC2 /* Resources */,
+				BD222DF824DE87CF005F9CC2 /* Sources */,
+				BD222DF924DE87CF005F9CC2 /* Frameworks */,
+				BD222DFA24DE87CF005F9CC2 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = AudioPlayer;
-			productName = AudioPlayer;
-			productReference = BD3DA74824DE742F00CFFBC2 /* AudioPlayer.app */;
+			name = RandomGame;
+			productName = RandomGame;
+			productReference = BD222DFC24DE87CF005F9CC2 /* RandomGame.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		BD3DA74024DE742F00CFFBC2 /* Project object */ = {
+		BD222DF424DE87CF005F9CC2 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1160;
 				LastUpgradeCheck = 1160;
 				ORGANIZATIONNAME = "Samuel J. Lee";
 				TargetAttributes = {
-					BD3DA74724DE742F00CFFBC2 = {
+					BD222DFB24DE87CF005F9CC2 = {
 						CreatedOnToolsVersion = 11.6;
 					};
 				};
 			};
-			buildConfigurationList = BD3DA74324DE742F00CFFBC2 /* Build configuration list for PBXProject "AudioPlayer" */;
+			buildConfigurationList = BD222DF724DE87CF005F9CC2 /* Build configuration list for PBXProject "RandomGame" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = BD3DA73F24DE742F00CFFBC2;
-			productRefGroup = BD3DA74924DE742F00CFFBC2 /* Products */;
+			mainGroup = BD222DF324DE87CF005F9CC2;
+			productRefGroup = BD222DFD24DE87CF005F9CC2 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BD3DA74724DE742F00CFFBC2 /* AudioPlayer */,
+				BD222DFB24DE87CF005F9CC2 /* RandomGame */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		BD3DA74624DE742F00CFFBC2 /* Resources */ = {
+		BD222DFA24DE87CF005F9CC2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BD3DA75824DE743600CFFBC2 /* LaunchScreen.storyboard in Resources */,
-				BD3DA75524DE743600CFFBC2 /* Assets.xcassets in Resources */,
-				BD3DA75324DE742F00CFFBC2 /* Main.storyboard in Resources */,
+				BD222E0C24DE87D2005F9CC2 /* LaunchScreen.storyboard in Resources */,
+				BD222E0924DE87D2005F9CC2 /* Assets.xcassets in Resources */,
+				BD222E0724DE87CF005F9CC2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		BD3DA74424DE742F00CFFBC2 /* Sources */ = {
+		BD222DF824DE87CF005F9CC2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BD3DA75024DE742F00CFFBC2 /* ViewController.swift in Sources */,
-				BD3DA74C24DE742F00CFFBC2 /* AppDelegate.swift in Sources */,
-				BD3DA74E24DE742F00CFFBC2 /* SceneDelegate.swift in Sources */,
+				BD222E0424DE87CF005F9CC2 /* ViewController.swift in Sources */,
+				BD222E0024DE87CF005F9CC2 /* AppDelegate.swift in Sources */,
+				BD222E0224DE87CF005F9CC2 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		BD3DA75124DE742F00CFFBC2 /* Main.storyboard */ = {
+		BD222E0524DE87CF005F9CC2 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				BD3DA75224DE742F00CFFBC2 /* Base */,
+				BD222E0624DE87CF005F9CC2 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		BD3DA75624DE743600CFFBC2 /* LaunchScreen.storyboard */ = {
+		BD222E0A24DE87D2005F9CC2 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				BD3DA75724DE743600CFFBC2 /* Base */,
+				BD222E0B24DE87D2005F9CC2 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		BD3DA75A24DE743600CFFBC2 /* Debug */ = {
+		BD222E0E24DE87D2005F9CC2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -226,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		BD3DA75B24DE743600CFFBC2 /* Release */ = {
+		BD222E0F24DE87D2005F9CC2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -280,34 +280,36 @@
 			};
 			name = Release;
 		};
-		BD3DA75D24DE743600CFFBC2 /* Debug */ = {
+		BD222E1124DE87D2005F9CC2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = AudioPlayer/Info.plist;
+				DEVELOPMENT_TEAM = H2HFG395R4;
+				INFOPLIST_FILE = RandomGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = sjl1826.AudioPlayer;
+				PRODUCT_BUNDLE_IDENTIFIER = sjl1826.RandomGame;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		BD3DA75E24DE743600CFFBC2 /* Release */ = {
+		BD222E1224DE87D2005F9CC2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = AudioPlayer/Info.plist;
+				DEVELOPMENT_TEAM = H2HFG395R4;
+				INFOPLIST_FILE = RandomGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = sjl1826.AudioPlayer;
+				PRODUCT_BUNDLE_IDENTIFIER = sjl1826.RandomGame;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -317,25 +319,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BD3DA74324DE742F00CFFBC2 /* Build configuration list for PBXProject "AudioPlayer" */ = {
+		BD222DF724DE87CF005F9CC2 /* Build configuration list for PBXProject "RandomGame" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BD3DA75A24DE743600CFFBC2 /* Debug */,
-				BD3DA75B24DE743600CFFBC2 /* Release */,
+				BD222E0E24DE87D2005F9CC2 /* Debug */,
+				BD222E0F24DE87D2005F9CC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BD3DA75C24DE743600CFFBC2 /* Build configuration list for PBXNativeTarget "AudioPlayer" */ = {
+		BD222E1024DE87D2005F9CC2 /* Build configuration list for PBXNativeTarget "RandomGame" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BD3DA75D24DE743600CFFBC2 /* Debug */,
-				BD3DA75E24DE743600CFFBC2 /* Release */,
+				BD222E1124DE87D2005F9CC2 /* Debug */,
+				BD222E1224DE87D2005F9CC2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = BD3DA74024DE742F00CFFBC2 /* Project object */;
+	rootObject = BD222DF424DE87CF005F9CC2 /* Project object */;
 }

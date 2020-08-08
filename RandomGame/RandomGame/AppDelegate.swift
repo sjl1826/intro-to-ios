@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  AudioPlayer
+//  RandomGame
 //
-//  Created by Samuel J. Lee on 8/7/20.
+//  Created by Samuel J. Lee on 8/8/20.
 //  Copyright © 2020 Samuel J. Lee. All rights reserved.
 //
 
